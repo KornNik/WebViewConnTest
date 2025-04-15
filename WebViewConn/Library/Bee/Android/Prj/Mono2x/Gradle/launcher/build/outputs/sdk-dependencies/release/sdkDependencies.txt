@@ -1,0 +1,31 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "firebase-messaging-cpp"
+  }
+  digests {
+    sha256: "*(\0303\246\316\354p\2738\360\357\037$\v52\315\240\006\351\004\037zdy\330\273\264\223\rR"
+  }
+}
+library {
+  digests {
+    sha256: "\312\364\343T;\b`\372\371\375I\\9\025s\362J*\037\353\v\245P\313?\r\320\326\234\277%6"
+  }
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 1
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}

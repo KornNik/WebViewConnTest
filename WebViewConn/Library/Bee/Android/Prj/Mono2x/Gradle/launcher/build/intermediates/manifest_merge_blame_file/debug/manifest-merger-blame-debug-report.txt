@@ -1,0 +1,156 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.WebViewConn"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-67
+19-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-64
+20
+21    <uses-feature android:glEsVersion="0x00030000" />
+21-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-54
+21-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:19-51
+22    <uses-feature
+22-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-17:36
+23        android:name="android.hardware.vulkan.version"
+23-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-55
+24        android:required="false" />
+24-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-33
+25    <uses-feature
+25-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:5-20:36
+26        android:name="android.hardware.touchscreen"
+26-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-52
+27        android:required="false" />
+27-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-33
+28    <uses-feature
+28-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-23:36
+29        android:name="android.hardware.touchscreen.multitouch"
+29-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-63
+30        android:required="false" />
+30-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-33
+31    <uses-feature
+31-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:5-26:36
+32        android:name="android.hardware.touchscreen.multitouch.distinct"
+32-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-72
+33        android:required="false" />
+33-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-33
+34
+35    <application
+35-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+36        android:debuggable="true"
+37        android:extractNativeLibs="true"
+37-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-41
+38        android:icon="@mipmap/app_icon"
+38-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+39        android:label="@string/app_name" >
+39-->D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+40        <service
+40-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-35:72
+41            android:name="com.google.firebase.messaging.MessageForwardingService"
+41-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-82
+42            android:exported="true"
+42-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-36
+43            android:permission="android.permission.BIND_JOB_SERVICE" />
+43-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-69
+44
+45        <meta-data
+45-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-39:33
+46            android:name="unity.splash-mode"
+46-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-45
+47            android:value="0" />
+47-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-30
+48        <meta-data
+48-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-42:36
+49            android:name="unity.splash-enable"
+49-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-47
+50            android:value="True" />
+50-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-33
+51        <meta-data
+51-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-45:36
+52            android:name="unity.launch-fullscreen"
+52-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-51
+53            android:value="True" />
+53-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-33
+54        <meta-data
+54-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:9-48:37
+55            android:name="unity.allow-resizable-window"
+55-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-56
+56            android:value="False" />
+56-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-34
+57        <meta-data
+57-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:9-51:50
+58            android:name="notch.config"
+58-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-40
+59            android:value="portrait|landscape" />
+59-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-47
+60        <meta-data
+60-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:9-54:36
+61            android:name="unity.auto-report-fully-drawn"
+61-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-57
+62            android:value="true" />
+62-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-33
+63
+64        <activity
+64-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:9-76:20
+65            android:name="com.google.firebase.MessagingUnityPlayerActivity"
+65-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-76
+66            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+66-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:13-194
+67            android:exported="true"
+67-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:59:13-36
+68            android:hardwareAccelerated="false"
+68-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:13-48
+69            android:launchMode="singleTask"
+69-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:13-44
+70            android:resizeableActivity="false"
+70-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:13-47
+71            android:screenOrientation="fullUser" >
+71-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:13-49
+72            <intent-filter>
+72-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-68:29
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:17-77
+73-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:27-74
+74
+75                <action android:name="android.intent.action.MAIN" />
+75-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:17-69
+75-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:25-66
+76            </intent-filter>
+77
+78            <meta-data
+78-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:70:13-72:40
+79                android:name="unityplayer.UnityActivity"
+79-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:71:17-57
+80                android:value="true" />
+80-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:72:17-37
+81            <meta-data
+81-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:73:13-75:40
+82                android:name="notch_support"
+82-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:74:17-45
+83                android:value="true" />
+83-->[:unityLibrary] D:\Work\GitPrograms\WebViewConnTest\WebViewConn\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:75:17-37
+84        </activity>
+85    </application>
+86
+87</manifest>
